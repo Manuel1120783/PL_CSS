@@ -1,0 +1,11 @@
+# GitSync - Limpeza completa
+# Ignorar arquivos temporários e de sistema
+*.log
+*.tmp
+*.ps1
+*.cache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
